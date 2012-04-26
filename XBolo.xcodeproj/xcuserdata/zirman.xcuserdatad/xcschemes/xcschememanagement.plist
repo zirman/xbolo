@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Dedicated Host.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Mac OS X.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>XBolo Tracker.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>iPhone.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>404D425C0FF84FEA00589EA2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>407C8B380FDC739B006A71F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>408187581080C81200E4D4CA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>40A5931E0FBE78FC00F3E650</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

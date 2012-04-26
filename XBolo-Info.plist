@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>map</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>XBoloMap</string>
+			<key>CFBundleTypeMIMETypes</key>
+			<array>
+				<string>BMAP</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>XBolo Map</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>BMAP</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.gengasw.xbolo.map</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>XBolo</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Version 0.4.1</string>
+	<key>CFBundleIconFile</key>
+	<string>XBolo.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.gengasw.xbolo</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>XBolo</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.4.1</string>
+	<key>CFBundleSignature</key>
+	<string>XBLO</string>
+	<key>CFBundleVersion</key>
+	<string>0.4.1</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>UTExportedTypeDeclarations</key>
+	<array>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.image</string>
+				<string>public.data</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>XBolo Map</string>
+			<key>UTTypeIconFile</key>
+			<string>public.jpeg.icns</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.gengasw.xbolo.map</string>
+			<key>UTTypeReferenceURL</key>
+			<string>http://www.lgm.com/bolo/</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>com.apple.ostype</key>
+				<string>BMAP</string>
+				<key>public.filename-extension</key>
+				<array>
+					<string>map</string>
+				</array>
+				<key>public.mime-type</key>
+				<string>BMAP</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

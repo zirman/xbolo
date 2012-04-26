@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn_xbolo/!svn/ver/81/trunk/XBolo/iPhone
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn_xbolo/!svn/ver/81/trunk/XBolo/iPhone/main.m
+END
+XBoloViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn_xbolo/!svn/ver/14/trunk/XBolo/iPhone/XBoloViewController.xib
+END
+XBolo-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn_xbolo/!svn/ver/81/trunk/XBolo/iPhone/XBolo-Info.plist
+END
+XBolo_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn_xbolo/!svn/ver/14/trunk/XBolo/iPhone/XBolo_Prefix.pch
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn_xbolo/!svn/ver/14/trunk/XBolo/iPhone/MainWindow.xib
+END

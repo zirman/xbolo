@@ -1,0 +1,19 @@
+XBolo Map Editor
+
+What is XBolo?
+XBolo is a clone of the original tank warfare game Bolo written by written by Stuart Cheshire.  It is an action/strategy game played over the internet where 2 or more players battle for control of pillboxes and bases.
+
+Where can I get XBolo?
+You can download XBolo from here ( http://xbolo.org/download/XBolo-0.4.1.dmg.zip ).
+
+Where can I find people to play with?
+You can still find a few players on IRC (efnet) idling in #xbolo.  Please come say hi.
+
+Was XBolo develeped using the original Bolo source code?
+XBolo has been developed without the original source code although the look and sound effects were captured from the original game.
+
+## License
+
+The source code of XBolo Map Editor is distributed with a MIT License.
+
+All the graphics and sounds are captured from the original Bolo © 1993 Stuart Cheshire.

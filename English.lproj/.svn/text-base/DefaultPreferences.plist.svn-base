@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GSMuteBool</key>
+	<false/>
+	<key>GSHostUPnPBool</key>
+	<false/>
+	<key>GSAutoSlowdownBool</key>
+	<true/>
+	<key>GSHostDominationBaseControlString</key>
+	<string>00:00:30</string>
+	<key>GSHostDominationTypeNumber</key>
+	<integer>0</integer>
+	<key>GSHostGameTypeNumber</key>
+	<integer>0</integer>
+	<key>GSHostMapString</key>
+	<string></string>
+	<key>GSHostOpenGameBool</key>
+	<true/>
+	<key>GSHostPasswordBool</key>
+	<false/>
+	<key>GSHostPasswordString</key>
+	<string></string>
+	<key>GSHostPortNumber</key>
+	<integer>50000</integer>
+	<key>GSHostTimeLimitBool</key>
+	<false/>
+	<key>GSHostTimeLimitString</key>
+	<string>00:30:00</string>
+	<key>GSHostHiddenMinesBool</key>
+	<false/>
+	<key>GSHostTrackerBool</key>
+	<true/>
+	<key>GSJoinAddressString</key>
+	<string>localhost</string>
+	<key>GSJoinPasswordBool</key>
+	<false/>
+	<key>GSJoinPasswordString</key>
+	<string></string>
+	<key>GSJoinPortNumber</key>
+	<integer>50000</integer>
+	<key>GSKeyConfigDict</key>
+	<dict>
+		<key>0</key>
+		<string>GSTurnLeftString</string>
+		<key>1</key>
+		<string>GSBrakeString</string>
+		<key>12</key>
+		<string>GSDecreaseAimString</string>
+		<key>123</key>
+		<string>GSLeftString</string>
+		<key>124</key>
+		<string>GSRightString</string>
+		<key>125</key>
+		<string>GSDownString</string>
+		<key>126</key>
+		<string>GSUpString</string>
+		<key>13</key>
+		<string>GSAccelerateString</string>
+		<key>14</key>
+		<string>GSIncreaseAimString</string>
+		<key>2</key>
+		<string>GSTurnRightString</string>
+		<key>49</key>
+		<string>GSShootString</string>
+		<key>56</key>
+		<string>GSLayMineString</string>
+		<key>7</key>
+		<string>GSTankViewString</string>
+		<key>8</key>
+		<string>GSPillViewString</string>
+	</dict>
+	<key>GSMessageTarget</key>
+	<integer>0</integer>
+	<key>GSPlayerNameString</key>
+	<string>Newbie</string>
+	<key>GSPrefPaneIdentifierString</key>
+	<string>GSToolbarPlayerInfoItemIdentifier</string>
+	<key>GSShowAllegianceBool</key>
+	<true/>
+	<key>GSShowMessagesBool</key>
+	<true/>
+	<key>GSShowStatusBool</key>
+	<true/>
+	<key>GSTrackerString</key>
+	<string>tracker.xbolo.org</string>
+	<key>GSZoomLevel</key>
+	<integer>0</integer>
+	<key>NSToolbar Configuration MapOverview</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>2</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>2</integer>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+		<key>TB Item Identifiers</key>
+		<array>
+			<string>ZoomIn</string>
+			<string>ZoomOut</string>
+		</array>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>

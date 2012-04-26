@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn_xbolo/!svn/ver/108/trunk/XBolo/XBolo%20Quick%20Look%20Plug-in
+END
+GeneratePreviewForURL.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn_xbolo/!svn/ver/108/trunk/XBolo/XBolo%20Quick%20Look%20Plug-in/GeneratePreviewForURL.m
+END
+GenerateThumbnailForURL.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn_xbolo/!svn/ver/57/trunk/XBolo/XBolo%20Quick%20Look%20Plug-in/GenerateThumbnailForURL.m
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn_xbolo/!svn/ver/57/trunk/XBolo/XBolo%20Quick%20Look%20Plug-in/Info.plist
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn_xbolo/!svn/ver/57/trunk/XBolo/XBolo%20Quick%20Look%20Plug-in/main.c
+END
+preview.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn_xbolo/!svn/ver/57/trunk/XBolo/XBolo%20Quick%20Look%20Plug-in/preview.sh
+END
+thumbnail.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn_xbolo/!svn/ver/57/trunk/XBolo/XBolo%20Quick%20Look%20Plug-in/thumbnail.sh
+END
